@@ -48,7 +48,7 @@ namespace g2o {
      that operate transparently on edges or vertices (see HyperGraphAction).
 
      The vertices are uniquely identified by an int id, while the edges are
-     identfied by their pointers. 
+     identified by their pointers. 
    */
   class G2O_CORE_API HyperGraph
   {
